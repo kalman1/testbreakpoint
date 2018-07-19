@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     var sum = 0
     
-    var kim = 33
+    var lee = 33
   
     
     
